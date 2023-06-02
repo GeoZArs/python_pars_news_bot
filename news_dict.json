@@ -1,0 +1,92 @@
+{
+    "538630": {
+        "article_date_timestamp": 1685625554.0,
+        "article_title": "Операция «Триангуляция»: как злоумышленники атаковали iOS-устройства сотрудников «Лаборатории Касперского»",
+        "article_url": "https://www.securitylab.ru/news/538630.php",
+        "article_desc": "Эксперты «Лаборатории Касперского» обнаружили новое шпионское ПО, которое заражает устройства с помощью zero-click эксплойта."
+    },
+    "538622": {
+        "article_date_timestamp": 1685624431.0,
+        "article_title": "Администраторы групп Discord массово теряют свои аккаунты в атаках с использованием закладок браузера",
+        "article_url": "https://www.securitylab.ru/news/538622.php",
+        "article_desc": "Добавляя закладку в свой браузер, жертва добровольно передаёт хакеру доступ к своему аккаунту."
+    },
+    "538621": {
+        "article_date_timestamp": 1685622300.0,
+        "article_title": "Новый скрытный троян SeroXen RAT обходит антивирусы и даёт хакерам полный доступ к целевым компьютерам",
+        "article_url": "https://www.securitylab.ru/news/538621.php",
+        "article_desc": "Пока что инструмент используется против обычных геймеров, но его популярность рано или поздно поставит под удар и корпоративный сектор."
+    },
+    "538620": {
+        "article_date_timestamp": 1685620678.0,
+        "article_title": "Paragraphica: камера, которая «видит» мир глазами ИИ",
+        "article_url": "https://www.securitylab.ru/news/538620.php",
+        "article_desc": "Датский дизайнер создал уникальный гаджет, который преобразует текстовые описания в фотографии с помощью нейросети."
+    },
+    "538618": {
+        "article_date_timestamp": 1685619000.0,
+        "article_title": "Sphynx — новое оружие вымогателей. Почему этот вирус гораздо опаснее предыдущих?",
+        "article_url": "https://www.securitylab.ru/news/538618.php",
+        "article_desc": "ALPHV/BlackCat даже не думает сдавать позиции и постоянно улучшает свой вредоносный инструментарий."
+    },
+    "538617": {
+        "article_date_timestamp": 1685616900.0,
+        "article_title": "Антидроновые ружья стали хитом продаж после атаки беспилотников на Москву",
+        "article_url": "https://www.securitylab.ru/news/538617.php",
+        "article_desc": "На интернет-площадках появилось более 600 объявлений о продаже систем для борьбы с беспилотниками."
+    },
+    "538615": {
+        "article_date_timestamp": 1685615429.0,
+        "article_title": "Чат-бот Tess службы доверия привёл к развитию психического расстройства у пациента",
+        "article_url": "https://www.securitylab.ru/news/538615.php",
+        "article_desc": "Компания заменила всех сотрудников службы на машину, но машина стала раздавать вредные советы."
+    },
+    "538614": {
+        "article_date_timestamp": 1685614500.0,
+        "article_title": "Симфония хаоса: как разделение обязанностей увеличивает эффективность цифровых злоумышленников?",
+        "article_url": "https://www.securitylab.ru/news/538614.php",
+        "article_desc": "Широкий спектр услуг на подпольном рынке может даже неопытного хакера превратить в настоящую акулу киберпреступности."
+    },
+    "538612": {
+        "article_date_timestamp": 1685613000.0,
+        "article_title": "Операция «Red Deer»: кибершпионы атакуют израильские организации",
+        "article_url": "https://www.securitylab.ru/news/538612.php",
+        "article_desc": "Почта Израиля стала участником цепочки заражения трояном AsyncRAT."
+    },
+    "538613": {
+        "article_date_timestamp": 1685612698.0,
+        "article_title": "Американские спецслужбы использовали iPhone для шпионажа в России",
+        "article_url": "https://www.securitylab.ru/news/538613.php",
+        "article_desc": "ФСБ раскрыла секретную операцию США."
+    },
+    "538637": {
+        "article_date_timestamp": 1685642400.0,
+        "article_title": "Злоумышленники активно эксплуатируют уязвимость нулевого дня в программе MOVEit Transfer",
+        "article_url": "https://www.securitylab.ru/news/538637.php",
+        "article_desc": "Пахнет повторением сценария с Fortra GoAnywhere и Accellion FTA, неужели и в этот раз всё сложится столь печально?"
+    },
+    "538633": {
+        "article_date_timestamp": 1685638819.0,
+        "article_title": "Генпрокуратуру призвали возбудить уголовное дело на сотрудников Apple о шпионаже за россиянами",
+        "article_url": "https://www.securitylab.ru/news/538633.php",
+        "article_desc": "Виталий Бородин хочет привлечь Apple и разведку США к ответственности за распространение шпионского ПО."
+    },
+    "538606": {
+        "article_date_timestamp": 1685628848.0,
+        "article_title": "Ученые сделали первый в мире рентгеновский снимок одного атома",
+        "article_url": "https://www.securitylab.ru/news/538606.php",
+        "article_desc": "Прорыв открывает новые возможности для науки и технологи."
+    },
+    "538629": {
+        "article_date_timestamp": 1685627700.0,
+        "article_title": "«Терминатор» с русскоязычного форума уничтожает любые антивирусные системы",
+        "article_url": "https://www.securitylab.ru/news/538629.php",
+        "article_desc": "Стоит ли верить в громкие заявления хакеров, которые отчаянно пытаются продать свой софт?"
+    },
+    "538623": {
+        "article_date_timestamp": 1685626710.0,
+        "article_title": "Система MaxPatrol SIEM получила масштабное обновление экспертизы",
+        "article_url": "https://www.securitylab.ru/news/538623.php",
+        "article_desc": "В систему мониторинга событий ИБ компании Positive Technologies — MaxPatrol SIEM — добавлены новые правила обнаружения угроз."
+    }
+}
